@@ -25,5 +25,10 @@
   "markdown.preview.breaks": true,
   "pasteImage.path": "${projectRoot}/attachments",
   "pasteImage.showFilePathConfirmInputBox": true,
-  "prettier.singleQuote": false,
+"prettier.singleQuote": false,
+"workbench.colorCustomizations": {
+    "activityBar.background": "#51134A",
+    "titleBar.activeBackground": "#711A68",
+    "titleBar.activeForeground": "#FDF8FD"
+},
 }

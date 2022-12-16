@@ -27,8 +27,23 @@
   "pasteImage.showFilePathConfirmInputBox": true,
 "prettier.singleQuote": false,
 "workbench.colorCustomizations": {
-    "activityBar.background": "#51134A",
-    "titleBar.activeBackground": "#711A68",
-    "titleBar.activeForeground": "#FDF8FD"
+  "activityBar.background": "#bc4296",
+  "titleBar.activeBackground": "#963578",
+  "titleBar.activeForeground": "#e7e7e7",
+  "activityBar.activeBackground": "#bc4296",
+  "activityBar.foreground": "#e7e7e7",
+  "activityBar.inactiveForeground": "#e7e7e799",
+  "activityBarBadge.background": "#384719",
+  "activityBarBadge.foreground": "#e7e7e7",
+  "commandCenter.border": "#e7e7e799",
+  "sash.hoverBorder": "#bc4296",
+  "statusBar.background": "#963578",
+  "statusBar.foreground": "#e7e7e7",
+  "statusBarItem.hoverBackground": "#bc4296",
+  "statusBarItem.remoteBackground": "#963578",
+  "statusBarItem.remoteForeground": "#e7e7e7",
+  "titleBar.inactiveBackground": "#96357899",
+  "titleBar.inactiveForeground": "#e7e7e799"
 },
+"peacock.color": "#963578",
 }
